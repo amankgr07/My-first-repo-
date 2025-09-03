@@ -12,7 +12,7 @@ Here, I’ll be documenting my learning journey, sharing projects, and building 
 ---
 
 ## 🔧Tech Stack & Skills
-- **Programming:** C, , Python, JavaScript  
+- **Programming:** C, Python, JavaScript  
 - **Web Development:** HTML, CSS. 
 - **Tools & Platforms:** Git, GitHub, VS Code, Linux  
 - **Interests:** Problem Solving, Open Source, Web & App Development  
